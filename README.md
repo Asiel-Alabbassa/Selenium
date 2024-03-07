@@ -1,2 +1,2 @@
 # Selenium
-Projects samples for automation tsting with selenium
+Projects samples for automation testing with selenium
